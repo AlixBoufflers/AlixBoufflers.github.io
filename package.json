@@ -1,0 +1,15 @@
+{
+  "name": "apilyonsightseeing",
+  "version": "1.0.0",
+  "description": "Back end project for flex app project for it akademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thibaut Ger",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
